@@ -1,4 +1,4 @@
-# 🛠️ My Home Lab
+# 🖥️ My Home Lab
 
 Welcome to my Home Lab repository! This is where I experiment, learn, and build projects related to data analytics, cloud computing, and system administration. My home lab is a personal environment designed to simulate real-world workflows and scenarios, enabling me to deepen my understanding of various technologies and tools.
 
